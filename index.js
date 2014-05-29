@@ -2,7 +2,7 @@
 
  Project : baseball-stats
  Filename : index.js
- Autor : (c) Sebastian Krüger <krueger.oh@googlemail.com>
+ Author : (c) Sebastian Krüger <krueger.oh@googlemail.com>
  Date : 29.05.2014
 
  For the full copyright and license information, please view the LICENSE
