@@ -24,6 +24,8 @@
   "homepage": "https://github.com/sebkrueger/baseball-stats",
   "devDependencies": {
     "chai": "^1.9.1",
-    "mocha": "^1.20.0"
+    "mocha": "^1.20.0",
+    "coveralls": "^2.10.0",
+    "mocha-lcov-reporter": "0.0.1"
   }
 }
